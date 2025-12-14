@@ -89,8 +89,6 @@ O código foi escrito de forma incremental, acompanhando a progressão dos capí
 - Palavra-chave `this`.
 - Binding correto de métodos ao objeto.
 
-> ❌ Herança (`super`) **não incluída ainda**.
-
 ---
 
 ### ✔ Resolução de Escopo (Resolver)
